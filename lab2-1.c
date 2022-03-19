@@ -20,6 +20,6 @@ printf("Size of int*: %ld bytes\n",sizeof(int*));
 printf("Size of float*: %ld bytes\n",sizeof(float*));
 printf("Size of double*: %ld bytes\n",sizeof(double*));
 
-printf("[----- [¿Ãº±¡÷] [2021041042] -----]");
+printf("[----- [Ïù¥ÏÑ†Ï£º] [2021041042] -----]");
 return 0;
 }
